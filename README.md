@@ -1,2 +1,0 @@
-# dashboard-angular
-Projeto TCC
