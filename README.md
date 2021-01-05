@@ -1,3 +1,6 @@
+## Em andamento... Estudo para utilização em TCC, Criação de Modulos e Componentes
+
+
 # Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
