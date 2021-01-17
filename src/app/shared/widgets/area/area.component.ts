@@ -8,7 +8,7 @@ import * as Highcharts from 'highcharts';
 })
 export class AreaComponent implements OnInit {
 
-  chartOptions: {};
+  chartOptions!: {};
 
   Highcharts = Highcharts;
 
